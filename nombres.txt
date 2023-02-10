@@ -1,5 +1,3 @@
 nombres
-Pablo
-Sebastian
-Armando
-D
+Sebastián D
+Pablo Armando
